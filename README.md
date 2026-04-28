@@ -10,3 +10,5 @@ Initialized the repository
  Created initial documentation
 ### Learning:
 Understanding how to organize a project on GitHub is important for long-term development.
+### Next Steps:
+ Improve documentation
