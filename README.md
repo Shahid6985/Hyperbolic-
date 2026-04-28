@@ -16,3 +16,7 @@ Add more structured updates
 Continue consistent commits
 ### Note:
 This project will help me improve my GitHub workflow and consistency.
+## Day 2 - Structure Update
+Improved project structure.
+- Organized files
+- Clean layout
