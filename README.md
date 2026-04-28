@@ -23,3 +23,6 @@ Improved project structure.
 Added more documentation.
 - Project overview
 - Usage notes
+Working on project improvements.
+- Minor updates
+- Better clarity
