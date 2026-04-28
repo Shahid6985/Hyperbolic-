@@ -12,3 +12,4 @@ Initialized the repository
 Understanding how to organize a project on GitHub is important for long-term development.
 ### Next Steps:
  Improve documentation
+Add more structured updates
