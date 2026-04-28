@@ -29,3 +29,6 @@ Working on project improvements.
 Learning while building.
 - Understanding workflow
 - Improving commits
+Maintaining regular updates.
+- Daily commits
+- Project improvement
