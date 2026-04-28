@@ -14,3 +14,5 @@ Understanding how to organize a project on GitHub is important for long-term dev
  Improve documentation
 Add more structured updates
 Continue consistent commits
+### Note:
+This project will help me improve my GitHub workflow and consistency.
