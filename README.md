@@ -6,3 +6,4 @@ the project can beat the other web3 projects
 Today I started working on the Hyperbolic project
 ### Work Done:
 Initialized the repository
+ Added basic project structure
