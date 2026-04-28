@@ -13,3 +13,4 @@ Understanding how to organize a project on GitHub is important for long-term dev
 ### Next Steps:
  Improve documentation
 Add more structured updates
+Continue consistent commits
