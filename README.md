@@ -20,3 +20,6 @@ This project will help me improve my GitHub workflow and consistency.
 Improved project structure.
 - Organized files
 - Clean layout
+Added more documentation.
+- Project overview
+- Usage notes
