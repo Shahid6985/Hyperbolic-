@@ -26,3 +26,6 @@ Added more documentation.
 Working on project improvements.
 - Minor updates
 - Better clarity
+Learning while building.
+- Understanding workflow
+- Improving commits
