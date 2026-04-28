@@ -7,3 +7,4 @@ Today I started working on the Hyperbolic project
 ### Work Done:
 Initialized the repository
  Added basic project structure
+ Created initial documentation
