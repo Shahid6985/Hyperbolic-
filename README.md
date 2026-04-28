@@ -8,3 +8,5 @@ Today I started working on the Hyperbolic project
 Initialized the repository
  Added basic project structure
  Created initial documentation
+### Learning:
+Understanding how to organize a project on GitHub is important for long-term development.
